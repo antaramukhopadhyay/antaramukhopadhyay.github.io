@@ -273,3 +273,30 @@ h5{
         flex-direction: column;
     }
 }
+.resume{
+    width:90%;
+    color: #0000;
+    position:absolute;
+    top:30%;
+    left:50%;
+    transform:translate(-50%,50%);
+    text-align: center;
+    background: #000;
+  }
+  .resumelist h1{
+    font-size: 36px;
+    font-weight: 400;
+    color: #fff;
+  }
+  .resumelist ul{
+    text-align: left;
+    font-weight: 600;
+    margin: 10px 0;
+    color: #fff;
+    line-height: 200%;
+  }
+  @media(max-width:700px){
+    .resumelist{
+        flex-direction: column;
+    }
+}
