@@ -75,9 +75,11 @@ nav .fa{
 @media(max-width:700px){
     .text-box h1{
         font-size: 32px;
+        font-weight: bolder;
     }
     .text-box h2{
         font-size: 25px;
+        font-weight: bolder;
     }
     .nav-links ul li{
         display:block;
