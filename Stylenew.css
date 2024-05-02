@@ -53,7 +53,7 @@ nav-links{
     width:90%;
     color:#fff;
     position:absolute;
-    top:00%;
+    top:0%;
     left:50%;
     transform:translate(-50%,50%);
     text-align: center;
@@ -112,7 +112,7 @@ nav .fa{
     width:90%;
     color: #0000;
     position:absolute;
-    top:30%;
+    top:10%;
     left:50%;
     transform:translate(-50%,50%);
     text-align: center;
