@@ -297,15 +297,6 @@ nav .fa{
     box-sizing: border-box;
     transition: 0.5s;
 }
-.github{
-    flex-basis: 31%;
-    background: #000;
-    border-radius: 10px;
-    margin-bottom: 5%;
-    padding: 20px 12px;
-    box-sizing: border-box;
-    transition: 0.5s;
-}
 .blog{
     flex-basis: 31%;
     background: #000;
