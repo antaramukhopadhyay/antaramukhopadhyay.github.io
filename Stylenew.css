@@ -212,6 +212,9 @@ nav .fa{
     .publicationslist{
         flex-direction: column;
     }
+    .publicationslist ul{
+        font-size: 12px;
+    }
 }
 
  /*------------sub-header projects----------*/
