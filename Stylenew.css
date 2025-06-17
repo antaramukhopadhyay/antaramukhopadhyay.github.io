@@ -199,6 +199,12 @@ nav .fa{
     color: palevioletred;
     text-align: left;
   }
+  .publicationlist h2{
+    font-size: 25px;
+    font-weight: 400;
+    color: palevioletred;
+    text-align: left;
+  }
   .publicationlist ul{
     font-weight: 300;
     margin: 20px 0;
