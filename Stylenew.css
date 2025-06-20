@@ -449,6 +449,36 @@ nav .fa{
 }
 a {text-decoration:none;}
 
+/*------------schools----------*/
+
+.schools{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    background-color: #fff;
+  }
+  .schoollist h1{
+    font-size: 30px;
+    font-weight: 500;
+    color: palevioletred;
+    text-align: left;
+  }
+  .schoollist ul{
+    text-align: left;
+    font-weight: 300;
+    margin: 10px 0;
+    color: #000;
+    line-height: 200%;
+    font-size: 20px;
+  }
+  @media(max-width:700px){
+    .resumelist{
+        flex-direction: column;
+    }
+}
+a {text-decoration:none;}
+
 /*------------footer----------*/
 .footer{
     width: 100%;
