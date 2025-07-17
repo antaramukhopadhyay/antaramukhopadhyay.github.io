@@ -364,6 +364,14 @@ nav .fa{
     padding: 20px 12px;
     box-sizing: border-box;
 }
+.instagram{
+    flex-basis: 31%;
+    background: #fff;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
 .blog{
     flex-basis: 31%;
     background: #fff;
