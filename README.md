@@ -1,2 +1,2 @@
 # antaramukhopadhyay.github.io
-Personal website
+Academic website
