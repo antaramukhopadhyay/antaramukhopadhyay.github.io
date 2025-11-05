@@ -364,7 +364,7 @@ nav .fa{
     padding: 20px 12px;
     box-sizing: border-box;
 }
-.instagram{
+.bluesky{
     flex-basis: 31%;
     background: #fff;
     border-radius: 10px;
@@ -499,3 +499,4 @@ a {text-decoration:none;}
     font-size: 12px;
     font-weight: 500;
 }
+
