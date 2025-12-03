@@ -348,14 +348,6 @@ nav .fa{
     padding: 20px 12px;
     box-sizing: border-box;
 }
-.twitter{
-    flex-basis: 31%;
-    background: #fff;
-    border-radius: 10px;
-    margin-bottom: 5%;
-    padding: 20px 12px;
-    box-sizing: border-box;
-}
 .linkedin{
     flex-basis: 31%;
     background: #fff;
@@ -365,14 +357,6 @@ nav .fa{
     box-sizing: border-box;
 }
 .bluesky{
-    flex-basis: 31%;
-    background: #fff;
-    border-radius: 10px;
-    margin-bottom: 5%;
-    padding: 20px 12px;
-    box-sizing: border-box;
-}
-.instagram{
     flex-basis: 31%;
     background: #fff;
     border-radius: 10px;
@@ -507,5 +491,6 @@ a {text-decoration:none;}
     font-size: 12px;
     font-weight: 500;
 }
+
 
 
