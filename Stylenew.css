@@ -128,13 +128,13 @@ nav .fa{
     margin: auto;
     text-align: center;
     padding-top: 50px;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 700;
     color: palevioletred;
 }
 .about-me p{
         flex-basis: 31%;
-        text-align: left;
+        text-align: justify;
         color: #000;
         border-radius: 10px;
         margin-bottom: 5%;
@@ -147,7 +147,7 @@ nav .fa{
     margin-bottom: 30px;
     position: realative;
     overflow: hidden;
-    font-size: 25px;
+    font-size: 20px;
 }
 .center {
     display: block;
